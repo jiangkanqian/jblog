@@ -1,2 +1,17 @@
 server:
     port: 8081
+
+shiro:
+    web:
+        enabled: true
+    annotations:
+        enabled: false
+    loginUrl: /login
+    successUrl: /index
+    unauthorizedUrl: /error/reject.html
+    sessionManager:
+        cookie:
+            maxAge: 604800
+    rememberMeManager:
+        cookie:
+            maxAge: 604800
