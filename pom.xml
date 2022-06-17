@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <shiro>1.4.0</shiro>
-        <alibaba.fastjson>1.2.55</alibaba.fastjson>
+        <alibaba.fastjson>1.2.83</alibaba.fastjson>
         <apache.lucene>5.5.5</apache.lucene>
         <commons.lang3>3.8.1</commons.lang3>
         <commons.io>1.3.2</commons.io>
